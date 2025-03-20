@@ -76,6 +76,7 @@ main {
   width: 2rem;
   height: 2rem;
   color: white;
+  z-index:10;
 }
 
 .arrow:hover {
